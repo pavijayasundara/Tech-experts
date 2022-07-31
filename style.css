@@ -1,0 +1,66 @@
+﻿html,body { margin:0px; padding: 0px; font-family: "Open Sans",Arial, Helvetica, sans-serif; font-size:10pt; height:100% }
+big { font-size: 14pt}
+a {text-decoration:none; color: #336 }
+a:hover {text-decoration:underline}
+th {background-color:#333; color:#ccc; text-align:center ; font-weight: normal}
+form{ padding:0px; margin:0px}
+
+dl { margin-left: 20px; width:300px }
+dl dt { font-weight: bold; color: #999 ; margin-bottom: 10px  ; display: block  }
+dl dd { margin: 0px  5px 10px 10px;border-radius: 2px; border: 1px #999 solid ; padding: 3px 8px; color:#333}
+
+#messages{margin-top:20px;}
+#messages input{background-color:#8EACB7;border:2px solid #C0C0C0;padding:2px;margin:5px;}
+#messages textarea{background-color:#C0C0C0;color:#000;border:2px solid #636}
+#submit{margin-left:20px}
+
+.Search { background-color:#333; color:#ccc; padding:2px 10px;width:98%}
+.Search input { display:inline; margin:3px 5px }
+
+ul.Categories {list-style-type:none }
+ul.Categories  li { display:block;  }
+ul.Categories  li h3{ display:block;  clear:both; margin:0px; padding:0px}
+ul.Categories  li ul { margin:5px 0px 15px 10px ; padding:0px; float:left}
+ul.Categories  li ul li { margin:0px; padding:2px;  clear:none; display:inline-block; width:200px; float:left }
+
+.Body { display:block; min-height:100%;   background:url(images/background.jpg) repeat-y scroll right top}
+.Content{ padding:20px  20px 20px 30px; height:100%; display:block;}
+.Content h1 { color:#333; font-size:22px; font-weight:normal  }
+.Content h2 { color:#333; font-size:18px; font-weight:normal  }
+.Content h3 { color:#333; font-size:14px; font-weight:bold  }
+.Content label{ margin-left:20px}
+.Content img{margin-left:100px;margin-top:50px;}
+
+.contact{float:right;margin-right:80px;margin-top:40px}
+.contact span{ color:lime; text-transform:uppercase; font-size:12pt;margin:0px  0px 0px  52px ;}
+.contact p{margin-left:50px;color:#FFF; font-size:10pt; font-weight:normal} 
+
+.Links marquee { color:aqua; width:500px; float:left }
+.LinksBot { background-color: #333; padding:5px 10px; text-align:right; position:fixed; padding:; bottom:0px; left:0px; right:0px; }
+.LinksBot a {text-decoration:none; color:#FFF;padding:3px}
+
+.Bottom{ height:220px; background-color:#443; border-top:3px green solid;   position:static;   }
+.Bottom h1 a	{color:white; text-decoration:none }
+.Bottom h1{ color: white; text-decoration:none; margin:30px 30px 0px 50px; font-size:48px; display:inline; float:right }
+.Bottom ul span{ color:lime; text-transform:uppercase; font-size:12pt;margin:0px  0px 0px  58px ;}
+.Bottom ul{ float:left; list-style-type:none; padding:0px; margin:40px  }
+.Bottom ul li { width:200px; float:left }
+.Bottom ul li ul{ float:none; margin:0px  0px 0px  60px ; list-style:disc;  }
+.Bottom ul li ul li { margin:2px 0px; color:white }
+.Bottom img	{  float:right; height:60px}
+
+.LoginBox{   width:200px;  padding:75px 20px; font-size:13px}
+.LoginBox a { display:block; margin:2px 0px }
+
+label{ display:block; margin: 0px 0px 5px 0px }
+input,textarea ,select{ display:block; }
+
+.Title .links a{font-size:20px;color: #FFF; margin-top:50px ;margin-right:10px; text-decoration:none ;font-weight:bold;float:right; text-align:right}
+.Title .links a:hover {color:#9C0; cursor:pointer  }
+.Title {padding:2px 10px ; }
+
+#logo{width:400px}
+#logo a h1{color:#FFF;margin-top:25px;margin-left:60px;font-family: Baveuse;font-size:50px}
+.top{background:url(images/header.jpg) repeat-x;height:125px;} 
+
+.Copyright {color: #ccc; float:left; }
